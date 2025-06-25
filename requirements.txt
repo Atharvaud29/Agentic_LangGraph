@@ -1,0 +1,10 @@
+langgraph
+langchain
+langsmith
+python-dotenv
+langchain-groq
+langchain-tavily
+langchain-mcp-adapters
+mcp
+langgraph-cli[inmen]
+langgraph-api
