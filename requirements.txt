@@ -8,3 +8,4 @@ langchain-mcp-adapters
 mcp
 langgraph-cli[inmen]
 langgraph-api
+langchain_community
